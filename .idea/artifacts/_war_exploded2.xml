@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="留言簿:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="留言簿" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/java实验报告上机实践9(3)/javax.xml.bind.jar" />
+          <element id="library" level="project" name="mssql-jdbc-9.4.0.jre8" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="留言簿/web/Web" />
+    </root>
+  </artifact>
+</component>
